@@ -350,7 +350,7 @@
       <li>입/출고 수정창을 모달창으로 변경</li>
       <img src="https://github.com/jihyeon00/URUN_SCM_PROJECT/assets/120089047/a23fc66f-5054-4bfa-b534-2173b23e8613" alt="입/출고 수정" width="300">
       <img src="https://github.com/jihyeon00/URUN_SCM_PROJECT/assets/151722461/087a7554-1f54-4cca-a8be-3f81db1d98f0" alt="화살표"  width="100">
-      <img src="https://github.com/jihyeon00/URUN_SCM_PROJECT/assets/151722461/274c08d1-5402-44da-a0b0-f1cf35d5be63" alt="생산계획등록-모달" width="500">
+      <img src="https://github.com/jihyeon00/URUN_SCM_PROJECT/assets/151722461/e6bae0f3-0e35-4cc7-af17-aeadb5e590b3" alt="입/출고 수정-모달" width="500">
     </ul>
   </div>
 </details>
