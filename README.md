@@ -213,7 +213,7 @@
 
 <br>
 
-<h3>SpringBoot(수정필요)</h3>
+<h3>SpringBoot</h3>
 <details>
   <summary><b>1. 로그인 및 회원가입 [배지현] </b> </summary>
   <div markdown="1">
@@ -282,7 +282,7 @@
 
 <br>
 
-<h3>JDBC와 SpringBoot의 차이점(수정필요)</h3>
+<h3>JDBC와 SpringBoot의 차이점</h3>
 
 <details>
   <summary><b>1. 로그인 및 회원가입 [배지현] </b>  </summary>
